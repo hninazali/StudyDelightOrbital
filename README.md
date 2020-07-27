@@ -1,3 +1,13 @@
+#Study Delight 
+
+Be it in university or at work, many of us rely on to-do lists/other planner tools to keep track of our tasks.
+
+Many to-do list apps/ productivity tools only allow us to list down the tasks and tick-off completed tasks but do not help us visualise how we can complete them over a week. Some of us use physical book-planners to achieve this purpose, but it can sometimes be inconvenient to bring the book around or we may forget to bring it everywhere we go. Moreover, on physical planner books, it is impossible to ‘postpone’ the tasks from one day to another without making unsightly strike-offs and there is limited space for us to make many different changes as well.
+
+Hence, we wanted to create our own ideal version of a to-do list tool, which allows us to visualise our action plan to complete the tasks over the week, and make adjustments to our weekly plan easily and neatly if we are not able to complete planned tasks for the day.
+
+We hope to make scheduling tasks more efficient and engaging (delightful) through an online platform.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
