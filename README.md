@@ -1,4 +1,4 @@
-#Study Delight 
+# Study Delight 
 
 Be it in university or at work, many of us rely on to-do lists/other planner tools to keep track of our tasks.
 
